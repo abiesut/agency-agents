@@ -21,7 +21,7 @@ roundups, so check GitHub for current star counts and activity.
 
 ### Learning and setup
 - [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code): how a Claude Code-style agent works internally.
-- [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done): spec-driven development and context management.
+- [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done): spec-driven development and context management. Archived by its owner in June 2026; one secondary source says active development moved to `open-gsd/gsd-core`, so verify before relying on either.
 - claude-code-templates: ready-made agent, command, hook, settings and MCP configs.
 
 ## Using GitHub tokens properly
