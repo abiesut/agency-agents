@@ -29,3 +29,7 @@ Use the Reality Checker agent to verify this feature is production-ready.
 
 Agents are organized into divisions. See the [main README](../../README.md) for
 the full Agency roster.
+
+## More
+
+See [RESOURCES-AND-TOKENS.md](RESOURCES-AND-TOKENS.md) for top community GitHub repos and token best practices.
